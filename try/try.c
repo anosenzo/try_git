@@ -10,5 +10,7 @@
 int main(void){
 	printf("hola mundo\n");
 
+	print("sos groso");
+
 	return 0;
 }
